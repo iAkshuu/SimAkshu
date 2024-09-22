@@ -13,18 +13,18 @@ API_HASH = getenv("API_HASH") #⚠️fill or leave
 BOT_TOKEN = getenv("BOT_TOKEN") #⚠️fill or leave 
 
 # Specify where to get the following credentials
-OWNER_USERNAME = getenv("OWNER_USERNAME", "MrBrokn") #⚠️replace 
-BOT_USERNAME = getenv("BOT_USERNAME", "MISS_YUMIPRO_BOT") #⚠️replace
-BOT_NAME = getenv("BOT_NAME", "‣ Mɪss Yᴜᴍɪ Pʀᴏ⋆ ᴠ𝟸.𝟶") #⚠️replace
+OWNER_USERNAME = getenv("OWNER_USERNAME", "iAkshuu") #⚠️replace 
+BOT_USERNAME = getenv("BOT_USERNAME", "LetsLostinMusic") #⚠️replace
+BOT_NAME = getenv("BOT_NAME", "LET'S LOST IN MUSIC ") #⚠️replace
 ASSUSERNAME = getenv("ASSUSERNAME", "BROKNXASSISTANT") #⚠️Replace
 EVALOP = list(map(int, getenv("EVALOP", "1841914911").split())) 
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
-LOGGER_ID = int(getenv("LOGGER_ID", -1002094142057)) #⚠️REPLACE
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Akshu:Akshu@0510@akshu.q4o3t.mongodb.net/?retryWrites=true&w=majority&appName=Akshu")
+LOGGER_ID = int(getenv("LOGGER_ID", -100222711419)) #⚠️REPLACE
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # External APIs - Get these from their respective providers
 GPT_API = getenv("GPT_API")
 DEEP_API = getenv("DEEP_API")
-OWNER_ID = int(getenv("OWNER_ID", 1841914911)) #⚠️REPLACE
+OWNER_ID = int(getenv("OWNER_ID", 7212118628)) #⚠️REPLACE
 
 # Heroku deployment settings - Refer to Heroku documentation on how to obtain these
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
@@ -34,8 +34,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master") #⚠️Don't Change
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support and contact information - Provide your own support channels
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BROKENXNETWORK") #⚠️Replace
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+7yFRvkorUdFiZTll") #⚠️Replace
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Akashvaniii") #⚠️Replace
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/onlyAkshuu") #⚠️Replace
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
