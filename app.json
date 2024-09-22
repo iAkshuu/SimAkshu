@@ -14,32 +14,32 @@
     "env": {
         "API_ID": {
             "description": "Retrieve this value from https://my.telegram.org.",
-            "value": "",
+            "value": "29126069",
             "required": true
         },
         "API_HASH": {
             "description": "Retrieve this value from https://my.telegram.org.",
-            "value": "",
+            "value": "dcf6ad5d0a2aef8eb400e2e35840f472",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Obtain a bot token from Botfather on Telegram.",
-            "value": "",
+            "value": "7493292243:AAGmnBNQdWfnVpat-3n10FkArjSbKEJbUWQ",
             "required": true
         },
         "MONGO_DB_URI": {
             "description": "Get a MongoDB URL from https://cloud.mongodb.com.",
-            "value": "",
+            "value": "mongodb+srv://Akshu:Akshu@0510@akshu.q4o3t.mongodb.net/?retryWrites=true&w=majority&appName=Akshu",
             "required": true
         },
         "OWNER_ID": {
             "description": "The user ID of the owner you want to add.",
-            "value": "",
+            "value": "7212118628",
             "required": true
         },
         "STRING_SESSION": {
             "description": "Generate a Pyrogram v2 String Session using @Strings_Gen_Robot on Telegram.",
-            "value": "",
+            "value": "BQG8bbUAtD7ZNJwFbQkjQ9M9GIZQjXqnzix2up1Q1NLqckDvChOxospOODq_HgyUfEvVcEqL6BVyat9DfZd4J_Xb26rVuYhBZgF9TQeurL75TqXz9iMuxT29wgbIkMk1mdorat7EkXQoiqYAPZ15icTcEH3QQO5i6P6Q3U7wQARp0JUopMV7oOkf984KHr8l888iMhEeRjgN_BrszIDCsxzIvGLlYJGKQL4YwMajUZIQjx8kdTzNmg7myHeVOW7o0sNSy-NdfHeYheamYXq3ewpiJquLuDzMfQFTI-AWEB1hzbIOg_HHFgP8twK_MctI--tFbISiAj5nIHuGJyn5v1cxn21VsgAAAAG-opDTAQ",
             "required": true
         },
         "HEROKU_API_KEY": {
