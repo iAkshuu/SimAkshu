@@ -54,7 +54,7 @@
         },
         "LOGGER_ID": {
             "description": "Your Log Group ID. Add your bot and promote it to admin with full rights.",
-            "value": "",
+            "value": "-1002227114191",
             "required": true
         },
         "GPT_API": {
